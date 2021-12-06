@@ -1,7 +1,7 @@
 # Deep Boltzmann Machine(DBM)の実装 (Implementation of Deep Boltzmann Machine)
 
 ## 概要(Overview)
-Pytorchを使用しDBMの実装を行った
+Pytorchを使用しDBMの実装を行った(Implemented DBM using Pytorch.)
 
 ## 内容(Contents)
 - DBMは学習に時間がかかるためPytorchを使用しGPUに対応させた
